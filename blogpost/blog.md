@@ -1,7 +1,5 @@
 # ****Building a smart fashion assistant with DeepLake and LlamaIndex****
 
-*Diego Kiedanski, Principal AI Consultant, and Lucas Micol, Lead Machine Learning Engineer at Tryolabs, authored the following blog post.* 
-
 In the ever-expanding landscape of artificial intelligence, vector databases stand as the unsung heroes, forming the foundation upon which many AI applications are built. These powerful databases provide the capacity to store and retrieve complex, high-dimensional data, enabling functionalities like Retrieval Augmented Generation (RAG) and sophisticated recommendation systems. 
 
 Alongside vector databases, Large Language Model (LLM) frameworks such as LlamaIndex and Langchain have emerged as key players in accelerating AI development. By simplifying the prototyping process and reducing development overheads associated with API interactions and data formatting, **these frameworks allow creators to focus on innovation** rather than the intricacies of implementation.

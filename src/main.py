@@ -50,7 +50,7 @@ from src.utils import show_product_in_notebook
 # Output models
 #
 class Clothing(BaseModel):
-    """Data moel for clothing items"""
+    """Data model for clothing items"""
 
     name: str
     product_id: str
