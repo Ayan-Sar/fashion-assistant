@@ -99,7 +99,7 @@ check_input_image_tool = FunctionTool.from_defaults(fn=has_user_input_image)
 # %%
 # LLM
 #
-llm = OpenAI(model="gpt-4", temperature=0.7)
+llm = OpenAI(model="gpt-3", temperature=0.7)
 
 # %%
 # Inventory query engine tool
